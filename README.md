@@ -1,4 +1,4 @@
-## Library Management System [LMS] Project:
+## Library Management System: BIBLIOTHÈQUE
 Browse books and clear doubts with faculty.
 
 Can access books only once the user has logged in (kept this restriction for security purposes).
